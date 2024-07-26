@@ -1,0 +1,7 @@
+Package: pixmaps-icons
+Version: 1.0
+Maintainer: Los Videos de Misol <admin@losvideosdemisol.es>
+Architecture: amd64
+Priority: optional
+Description: PixMaps Icons
+ Iconos adicionales

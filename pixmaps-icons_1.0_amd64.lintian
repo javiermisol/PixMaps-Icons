@@ -1,0 +1,6 @@
+E: pixmaps-icons: description-is-pkg-name PixMaps Icons
+E: pixmaps-icons: no-changelog usr/share/doc/pixmaps-icons/changelog.gz (native package)
+W: pixmaps-icons: copyright-without-copyright-notice
+W: pixmaps-icons: executable-not-elf-or-script usr/share/pixmaps/ultimate-flash-sonic.png
+W: pixmaps-icons: executable-not-elf-or-script usr/share/pixmaps/wack-a-mole.png
+W: pixmaps-icons: recommended-field pixmaps-icons_1.0_amd64.deb Section
